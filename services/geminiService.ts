@@ -18,7 +18,7 @@ let client: GoogleGenAI | null = null;
 
 const getClient = () => {
   if (!client) {
-    client = new GoogleGenAI({ apiKey: process.env.API_KEY });
+    client = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
   }
   return client;
 };
