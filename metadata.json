@@ -1,0 +1,5 @@
+{
+  "name": "MathGemini - Thầy Lộc Gia Sư Toán AI",
+  "description": "Ứng dụng chatbot hỗ trợ học toán, giải bài tập qua hình ảnh và văn bản sử dụng Gemini API và MathJax.",
+  "requestFramePermissions": []
+}
